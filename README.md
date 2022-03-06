@@ -8,6 +8,6 @@ This is a python keylogger for Linux distributions. The program performs "keylog
 
 python3 phoneinfo.py
 
-## Note
+## Note:
 
 Do not use this or other similar programs without having the permission.
