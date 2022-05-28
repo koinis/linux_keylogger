@@ -6,7 +6,7 @@ This is a python keylogger for Linux distributions. The program performs "keylog
 
 ## Usage:
 
-python3 phoneinfo.py
+python3 keylogger.py
 
 ## Note:
 
